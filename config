@@ -223,4 +223,4 @@ bindsym XF86AudioPrev exec playerctl previous
 exec_always compton
 
 # Wallpaper
-exec_always feh --bg-fill /home/sander/Pictures/citywall.jpeg
+exec_always feh --bg-fill /path/to/your/wallpaper.jpeg
